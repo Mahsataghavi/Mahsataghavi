@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahsataghavi
-- 👀 I’m interested in frontend.
+- 👀 I’m interested in Frontend.
 - 🌱 I’m currently learning javascript.
   
   
